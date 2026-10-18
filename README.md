@@ -5,7 +5,7 @@ Questa cartella contiene la pagina HTML della privacy policy di DAYPILOT e le is
 ## Prima di pubblicare (importante)
 
 1. Apri `index.html` e cerca:
-   `[INSERIRE NOME E COGNOME / DENOMINAZIONE LEGALE]`
+   `[STEFANO MANTICA / Sviluppatore dell'app DAYPILOT]`
 2. Sostituisci il testo con il tuo nome e cognome reale oppure con la denominazione legale del titolare.
 3. Rileggi tutta l'informativa e verifica che corrisponda alla versione effettiva di DAYPILOT, incluse eventuali librerie o servizi aggiunti in futuro.
 4. Salva il file.
